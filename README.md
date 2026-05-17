@@ -1388,6 +1388,66 @@ Created by OpenClaw agent "Clawd Clawderberg" (built by Matt Schlicht, Cofounder
 | **[TH Fleet Dashboard](https://github.com/thtopher/th-fleet-dashboard)** | Fleet dashboard | GitHub Pages dashboard and workflow controls for monitoring OpenClaw gateway health across an agent fleet |
 | **[JClaw](https://github.com/tsukhani/jclaw)** | Java implementation | Java-based assistant platform that documents OpenClaw-derived feature designs and gateway concepts |
 | **[HoneyBadge](https://github.com/xiaohanarch/HoneyBadge)** | ERP knowledge graph | Enterprise ERP knowledge-graph assistant whose MVP documents OpenClaw with an MCP Neo4j plugin as part of the validation stack |
+| **[@openclaw/bluebubbles](https://www.npmjs.com/package/@openclaw/bluebubbles)** | BlueBubbles channel | OpenClaw channel plugin for connecting agents to BlueBubbles messaging surfaces |
+| **[@openclaw/whatsapp](https://www.npmjs.com/package/@openclaw/whatsapp)** | WhatsApp channel | OpenClaw WhatsApp channel plugin for Gateway deployments that use approved messaging access |
+| **[@openclaw/acpx](https://www.npmjs.com/package/@openclaw/acpx)** | ACP backend | Runtime backend package for connecting OpenClaw workflows to Agent Client Protocol sessions |
+| **[@openclaw/codex](https://www.npmjs.com/package/@openclaw/codex)** | Codex provider | OpenClaw harness and model-provider plugin package for Codex-oriented agent workflows |
+| **[@openclaw/feishu](https://www.npmjs.com/package/@openclaw/feishu)** | Feishu channel | Community-maintained Feishu and Lark channel plugin for OpenClaw |
+| **[create-openclaw-bot](https://www.npmjs.com/package/create-openclaw-bot)** | Bot installer | Interactive CLI installer for creating an OpenClaw bot project |
+| **[atel-mcp-openclaw](https://www.npmjs.com/package/atel-mcp-openclaw)** | MCP bridge | OpenClaw plugin that bridges the runtime to ATEL Remote MCP with DID-Sig authentication |
+| **[@wecom/wecom-openclaw-cli](https://www.npmjs.com/package/@wecom/wecom-openclaw-cli)** | WeCom installer | CLI package for managing the official WeCom OpenClaw plugin |
+| **[openclaw-diagnostics-metrics-cls](https://www.npmjs.com/package/openclaw-diagnostics-metrics-cls)** | Diagnostics exporter | OpenClaw diagnostics exporter with Prometheus metrics and trace reporting support |
+| **[@dingtalk-real-ai/dingtalk-connector](https://www.npmjs.com/package/@dingtalk-real-ai/dingtalk-connector)** | DingTalk channel | DingTalk channel plugin package for OpenClaw connector deployments |
+| **[openclaw-cn](https://www.npmjs.com/package/openclaw-cn)** | Chinese distribution | Chinese OpenClaw community package with a WhatsApp gateway CLI and Pi RPC agent support |
+| **[openclaw-proxy-protocol](https://www.npmjs.com/package/openclaw-proxy-protocol)** | Protocol types | Shared semantic turn transport protocol types for OpenClaw and OpenClaw Hub integrations |
+| **[@riddledc/openclaw-riddle-proof](https://www.npmjs.com/package/@riddledc/openclaw-riddle-proof)** | Change evidence | OpenClaw wrapper for Riddle Proof evidence-backed agent change workflows |
+| **[@flyinghub/openclaw-plugin](https://www.npmjs.com/package/@flyinghub/openclaw-plugin)** | FlyingHub plugin | OpenClaw plugin package for connecting agents to FlyingHub workflows |
+| **[openclaw-xiaodu](https://www.npmjs.com/package/openclaw-xiaodu)** | Xiaodu channel | OpenClaw channel plugin package for Xiaodu devices or services |
+| **[@qingchencloud/openclaw-zh](https://www.npmjs.com/package/@qingchencloud/openclaw-zh)** | Chinese distribution | OpenClaw Chinese distribution package maintained by Qingchen Cloud |
+| **[ylib-openclaw-weixin](https://www.npmjs.com/package/ylib-openclaw-weixin)** | Weixin channel | Weixin channel plugin package for OpenClaw |
+| **[@openclaw/nostr](https://www.npmjs.com/package/@openclaw/nostr)** | Nostr channel | OpenClaw Nostr channel plugin for NIP-04 encrypted direct-message workflows |
+| **[@xiaopaitek/openclaw-xiaopai](https://www.npmjs.com/package/@xiaopaitek/openclaw-xiaopai)** | Xiaopai channel | OpenClaw Xiaopaitek channel plugin with custom WebSocket support for enterprise messaging |
+| **[@lark-apaas/openclaw-dev-cli](https://www.npmjs.com/package/@lark-apaas/openclaw-dev-cli)** | Development CLI | CLI tooling for OpenClaw plugin and integration development workflows |
+| **[@openclaw/msteams](https://www.npmjs.com/package/@openclaw/msteams)** | Teams channel | Microsoft Teams channel plugin package for OpenClaw Gateway deployments |
+| **[@qqvu/openclaw-channel](https://www.npmjs.com/package/@qqvu/openclaw-channel)** | QQvu channel | OpenClaw channel plugin for the QQvu platform |
+| **[@openclaw/zalouser](https://www.npmjs.com/package/@openclaw/zalouser)** | Zalo account channel | OpenClaw Zalo personal-account plugin using native zca-js integration |
+| **[@openclaw/line](https://www.npmjs.com/package/@openclaw/line)** | LINE channel | LINE channel plugin package for OpenClaw |
+| **[@goplausible/ac2-plugin-openclaw](https://www.npmjs.com/package/@goplausible/ac2-plugin-openclaw)** | WebRTC channel | OpenClaw channel plugin that connects Gateway sessions to AC2 peers over WebRTC |
+| **[@coclaw/openclaw-coclaw](https://www.npmjs.com/package/@coclaw/openclaw-coclaw)** | CoClaw channel | OpenClaw remote-chat channel plugin with an enrollment flow for CoClaw |
+| **[openclaw-config-guardian](https://www.npmjs.com/package/openclaw-config-guardian)** | Config backup | OpenClaw Config Guardian package for configuration backup and rollback workflows |
+| **[@openclaw/googlechat](https://www.npmjs.com/package/@openclaw/googlechat)** | Google Chat channel | Google Chat channel plugin package for OpenClaw |
+| **[@lingyao037/openclaw-lingyao-cli](https://www.npmjs.com/package/@lingyao037/openclaw-lingyao-cli)** | Lingyao channel | Lingyao channel plugin CLI for bidirectional relay through the lingyao.live service |
+| **[@larksuiteoapi/feishu-openclaw-plugin](https://www.npmjs.com/package/@larksuiteoapi/feishu-openclaw-plugin)** | Official Feishu channel | Feishu and Lark channel plugin package published for OpenClaw integrations |
+| **[@mem0/openclaw-mem0](https://www.npmjs.com/package/@mem0/openclaw-mem0)** | Memory backend | Mem0 memory backend plugin for OpenClaw, with platform and self-hosted paths documented by the package |
+| **[@volcengine/openclaw-volcengine-rtc](https://www.npmjs.com/package/@volcengine/openclaw-volcengine-rtc)** | RTC channel | VolcEngine RTC channel plugin package for OpenClaw |
+| **[openclaw-agent-orchestration](https://www.npmjs.com/package/openclaw-agent-orchestration)** | Orchestration helpers | Shared agent tool-selection and orchestration strategy helpers for OpenClaw packages |
+| **[openclaw-reminders](https://www.npmjs.com/package/openclaw-reminders)** | Reminder installer | Cron-native reminder skill installer and CLI for OpenClaw |
+| **[@agent-relay/openclaw](https://www.npmjs.com/package/@agent-relay/openclaw)** | Relay bridge | Relaycast bridge for OpenClaw messaging, identity, runtime setup, and local spawning |
+| **[openclaw-hybrid-memory-install](https://www.npmjs.com/package/openclaw-hybrid-memory-install)** | Memory installer | Standalone installer for OpenClaw hybrid-memory setup when config validation needs repair |
+| **[@useclawlink/openclaw-plugin](https://www.npmjs.com/package/@useclawlink/openclaw-plugin)** | SaaS integration plugin | ClawLink plugin package for connecting OpenClaw agents to trusted SaaS integration flows |
+| **[@remnic/plugin-openclaw](https://www.npmjs.com/package/@remnic/plugin-openclaw)** | Memory adapter | OpenClaw adapter for Remnic memory with the bundled Remnic runtime |
+| **[openclaw-opincer](https://www.npmjs.com/package/openclaw-opincer)** | Opincer channel | Opincer channel plugin package for OpenClaw |
+| **[@openclaw/diagnostics-prometheus](https://www.npmjs.com/package/@openclaw/diagnostics-prometheus)** | Prometheus exporter | OpenClaw diagnostics exporter package for Prometheus metric pipelines |
+| **[ylib-openclaw-lark](https://www.npmjs.com/package/ylib-openclaw-lark)** | Lark channel | Lark and Feishu channel plugin package for OpenClaw |
+| **[@crewspaceai/adapter-openclaw-gateway](https://www.npmjs.com/package/@crewspaceai/adapter-openclaw-gateway)** | Gateway adapter | Adapter package that invokes OpenClaw through the Gateway protocol for Crewspace workflows |
+| **[@wps365/openclaw-wpsxiezuo](https://www.npmjs.com/package/@wps365/openclaw-wpsxiezuo)** | WPS channel | WPS Xiezuo plugin connecting OpenClaw agents to the WPS Open Platform enterprise robot |
+| **[@heyamiko/openclaw-amiko](https://www.npmjs.com/package/@heyamiko/openclaw-amiko)** | Amiko channel | OpenClaw channel plugin for connecting agents to the Amiko platform by webhook |
+| **[scope-openclaw](https://www.npmjs.com/package/scope-openclaw)** | Scope channel | OpenClaw channel adapter for Scope chat, task management, and agent dispatch |
+| **[@oneainexus/openclaw-connector](https://www.npmjs.com/package/@oneainexus/openclaw-connector)** | Chat connector | OpenClaw channel plugin for the oneainexus-openclaw-chat project |
+| **[@fideliosai/adapter-openclaw-gateway](https://www.npmjs.com/package/@fideliosai/adapter-openclaw-gateway)** | Gateway adapter | Adapter package that invokes OpenClaw through the Gateway protocol for Fidelios workflows |
+| **[@dbsheet/openclaw-team-plugin](https://www.npmjs.com/package/@dbsheet/openclaw-team-plugin)** | Team bridge | OpenClaw channel plugin that bridges an external agent into a multi-agent collaborative team |
+| **[@aoagents/ao-plugin-notifier-openclaw](https://www.npmjs.com/package/@aoagents/ao-plugin-notifier-openclaw)** | Notifier plugin | OpenClaw webhook notification plugin for AO Agents workflows |
+| **[@engram-mem/openclaw](https://www.npmjs.com/package/@engram-mem/openclaw)** | Memory plugin | Engram persistent cross-session memory plugin for OpenClaw agents |
+| **[@composio/openclaw-plugin](https://www.npmjs.com/package/@composio/openclaw-plugin)** | Integration router | OpenClaw Composio plugin package that routes setup through the Composio CLI |
+| **[@openclaw/matrix](https://www.npmjs.com/package/@openclaw/matrix)** | Matrix channel | Matrix channel plugin package for OpenClaw |
+| **[@hyperspell/openclaw-hyperspell](https://www.npmjs.com/package/@hyperspell/openclaw-hyperspell)** | Memory plugin | Hyperspell memory plugin package for OpenClaw |
+| **[@openclaw/slack](https://www.npmjs.com/package/@openclaw/slack)** | Slack channel | Slack channel plugin package for OpenClaw |
+| **[memorylake-openclaw](https://www.npmjs.com/package/memorylake-openclaw)** | Memory backend | MemoryLake memory backend package for OpenClaw |
+| **[@openclaw/nextcloud-talk](https://www.npmjs.com/package/@openclaw/nextcloud-talk)** | Nextcloud Talk channel | Nextcloud Talk channel plugin package for OpenClaw |
+| **[@openclaw/google-meet](https://www.npmjs.com/package/@openclaw/google-meet)** | Meeting participant | Google Meet participant plugin package for OpenClaw |
+| **[@sabha-co/openclaw-sabha](https://www.npmjs.com/package/@sabha-co/openclaw-sabha)** | Sabha channel | Sabha channel plugin package for OpenClaw integrations |
+| **[openclaw-threema](https://www.npmjs.com/package/openclaw-threema)** | Threema channel | Threema Gateway channel plugin package for OpenClaw |
+| **[@peac/adapter-openclaw](https://www.npmjs.com/package/@peac/adapter-openclaw)** | Evidence adapter | OpenClaw adapter for PEAC interaction evidence capture workflows |
 
 ### Install a Skill
 
